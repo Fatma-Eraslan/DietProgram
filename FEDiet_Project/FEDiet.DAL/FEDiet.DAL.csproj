@@ -68,6 +68,7 @@
     <Compile Include="Repositories\MealRepository.cs" />
     <Compile Include="Repositories\UserDetailRepository.cs" />
     <Compile Include="Repositories\UserRepository.cs" />
+    <Compile Include="Repositories\WaterRepository.cs" />
     <Compile Include="Strategy\AdminStrategy.cs" />
     <Compile Include="Strategy\FoodStrategy.cs" />
   </ItemGroup>
